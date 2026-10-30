@@ -52,9 +52,7 @@ Skill 可以协助规划和实现，项目仍需要你通过多轮 vibe coding �
 
 ## 仓库内容
 
-- [`business-agent-project/`](business-agent-project/)：当前推荐的 Skill，包含需求、开发、面试三种模式及参考文件。
-- [`business-agent-requirements/`](business-agent-requirements/)：此前发布的需求确认 Skill，继续保留，方便已有用户和文章链接访问。
-- [`docs/business-agent-requirements/使用手册.md`](docs/business-agent-requirements/使用手册.md)：旧版需求确认 Skill 的使用手册，包含物业模拟 PRD 和操作示例。
-- [`docs/business-agent-requirements/78项技术方向清单.md`](docs/business-agent-requirements/78项技术方向清单.md)：原始技术方向参考清单；新版 Skill 另有自己的技术检查目录，两者不代表项目已接入状态。
+- [`business-agent-project/`](business-agent-project/)：包含需求、开发、面试三种模式的 Skill 及其参考文件。
+- [`docs/78项技术方向清单.md`](docs/78项技术方向清单.md)：原始技术方向参考清单；Skill 另有自己的技术检查目录，两者不代表项目已接入状态。
 
 本仓库采用 [MIT License](LICENSE)。业务资料、接口凭据和项目运行数据由使用者自行保管。使用模拟数据完成的测试应保留其环境说明，面试材料中的职责、上线情况和成果需要与实际证据一致。
